@@ -1,0 +1,20 @@
+
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.table {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.name{
+    padding: 0 10px;
+}
+
+.value{
+    padding: 0 10px;
+}
